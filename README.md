@@ -1,2 +1,2 @@
 # eesc4644-spring2020-final-project
- 
+ This project is a culmination of skills learned in EESC4464. It is an analysis of AO Index and Arctic sea ice extent. You can read my analysis in the pdf file in the root folder. My code I used to make figures and generate statistics is in the src folder. Datasets used are in csv files in the data folders. Sources for the data can be found in the report.
